@@ -28,3 +28,12 @@ Para hacer el análisis se filtraron los datos, para cada uno de los sorteos se 
         - Grupos con dos equipos brasileños y un equipo argentino.
         - Grupos con dos equipos argentios y un equipo brasileño.
 5. Grupo más repetido.
+
+1. one
+   * nested
+
+2. two
+   * nested
+
+3. three
+   * nested
