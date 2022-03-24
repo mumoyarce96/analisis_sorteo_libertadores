@@ -16,24 +16,16 @@ Para hacer el análisis se filtraron los datos, para cada uno de los sorteos se 
 
 1. Distribución del grupo en el que se ubica la UC en los distintos sorteos.
 2. Distribución de rivales de la UC de cada bombo.
- 1. Distribución por equipo y por país de los rivales de cada bombo.
- 2. Análisis condicional de la distribución de los rivales provenientes de los bombos 3 y 4 dependiendo del rival del bombo 1.
+   * Distribución por equipo y por país de los rivales de cada bombo.
+   * Análisis condicional de la distribución de los rivales provenientes de los bombos 3 y 4 dependiendo del rival del bombo 1.
         1. Si el rival del bombo 1 es brasileño.
         2. Si el rival del bombo 1 es argentino.
         3. Si el rival del bombo 1 es uruguayo.
 3. Porcentaje de grupos con y sin equipos de Brasil y/o Argentina.
-        - Grupos con y sin equipos brasileños.
-        - Grupos con y sin equipos argentinos.
-        - Grupos sin equipos brasileños ni equipos argentinos.
-        - Grupos con dos equipos brasileños y un equipo argentino.
-        - Grupos con dos equipos argentios y un equipo brasileño.
+   * Grupos con y sin equipos brasileños.
+   * Grupos con y sin equipos argentinos.
+   * Grupos sin equipos brasileños ni equipos argentinos.
+   * Grupos con dos equipos brasileños y un equipo argentino.
+   * Grupos con dos equipos argentios y un equipo brasileño.
 5. Grupo más repetido.
 
-1. one
-   * nested
-
-2. two
-   * nested
-
-3. three
-   * nested
